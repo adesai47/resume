@@ -11,7 +11,12 @@ const Header = () => {
         <a href="tel:(469) 803-1342" className="hover:text-gray-900">
           (469) 803-1342
         </a>
-        <a href="https://github.com/adesai47" className="hover:text-gray-900">
+        <a 
+          href="https://github.com/adesai47" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="hover:text-gray-900"
+        >
           github.com/adesai47
         </a>
       </div>

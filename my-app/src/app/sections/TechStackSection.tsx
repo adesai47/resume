@@ -4,13 +4,20 @@ const TechStackSection = () => {
   const techCategories = [
     {
       category: 'Frontend',
-      technologies: 'React, Tailwind CSS, Vite, Framer'
+      technologies: 'NextJS, React, React Native, Three.js, D3.js, Mermaid, p5.js, Framer, shadcN, Tailwind CSS'
     },
     {
       category: 'Backend',
-      technologies: 'Node.js, Go, Python, Express, Prisma, Bun, Zod, Zodios'
+      technologies: 'TypeScript, Python, Go, Express, Zod, Docker, AWS (SST/S3/EC2/Lambda), Vercel'
     },
-    // Add other categories
+    {
+      category: 'AI Engineering',
+      technologies: 'RAG, Embeddings, Vector Search, Agents, Prompt Engineering, OpenAI, Anthropic'
+    },
+    {
+      category: 'Databases',
+      technologies: 'PostgreSQL, Redis'
+    }
   ];
 
   return (

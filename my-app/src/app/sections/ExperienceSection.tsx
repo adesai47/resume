@@ -12,6 +12,18 @@ const ExperienceSection = () => {
         'Fringe: A job-searching app for software engineers and companies to find what they are looking for with a swipe',
         'Snack Safari: An e-commerce website for food enthusiasts to ship unique food from all over the world'
       ]
+    },
+    {
+      title: 'Frontend Developer',
+      company: 'Frame',
+      date: '2023',
+      description: 'Revamped the admin table section to give a more sleek look, implemented a drag and drop functionality to their editor, and implemented a whole new scrubber feature to their new redesigned company'
+    },
+    {
+      title: 'Frontend Developer',
+      company: 'Redistricter',
+      date: '2023',
+      description: "Focused on frontend development for Redistricer's MAP UI."
     }
   ];
 
